@@ -8,7 +8,7 @@
 
 ## What it is
 
-Outcomes is the boutique-lab answer to the corporate hospital. Built by one founder who owns the entire stack end-to-end. The corporate hospital has infinite resources but is structurally trapped by per-inference cloud costs. The boutique lab is wildly efficient because it owns its sovereign local architecture. That is why you can get Bloomberg-grade scenario analysis for under $100/year.
+Outcomes is sovereign Monte Carlo scenario analysis for serious financial work. Built by one founder who owns the entire stack end-to-end. The published Confidence Score math beats unpublished black-box scoring. The local Apple Silicon inference architecture is structurally cheaper than cloud per-inference, which is the only reason you can get Bloomberg-grade scenario analysis for under $100/year.
 
 Four discovery surfaces let cold visitors verify the methodology before the paywall: gallery (4 pre-rendered scenarios against real historical events), transparency (every Confidence Score threshold and weighting math published), methodology (Monte Carlo engine documentation in plain English), integrity statement (the AI does not grade its own work).
 

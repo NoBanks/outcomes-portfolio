@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **Sovereign analysis, top-line:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/30798401-8cb6-4c14-87fc-dce3d5d36d0c
 
 **Sovereign analysis, deeper:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/d0ebdac2-e608-45aa-aedb-5175df54737c
 
 **Sovereign analysis, alt cut:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/4338bcbc-8d13-4eea-ac14-f8a14f009c2e
 
 ---
 
